@@ -20,5 +20,5 @@ A responsive clone of Netflix built using **HTML**, **CSS**, and **JavaScript**.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   https://github.com/Vaibhavi702/Netflix-clone-app.git
 
